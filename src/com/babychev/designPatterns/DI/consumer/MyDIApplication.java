@@ -1,4 +1,6 @@
-package com.babychev.designPatterns.DI;
+package com.babychev.designPatterns.DI.consumer;
+
+import com.babychev.designPatterns.DI.components.MessageService;
 
 public class MyDIApplication implements Consumer {
 

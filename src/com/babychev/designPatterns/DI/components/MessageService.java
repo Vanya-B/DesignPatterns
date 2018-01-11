@@ -1,4 +1,4 @@
-package com.babychev.designPatterns.DI;
+package com.babychev.designPatterns.DI.components;
 
 public interface MessageService {
 
